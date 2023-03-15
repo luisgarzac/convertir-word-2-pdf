@@ -24,7 +24,8 @@
 
 
 ```
-# import docx2pdf
+# from docx2pdf import convert
+
 ```
 
 
